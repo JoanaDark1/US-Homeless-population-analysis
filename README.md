@@ -10,7 +10,7 @@ Foram analisados números brutos e a proporção de moradores de rua por Região
 
 ## Resultados
 *  A categoria familiar tem grande influência nos números de pessoas desabrigadas.
-*  Algumas regiões tem uma população de pessoas que moram nas ruas muito maior que outras, então o problema de pessoas sem-teto não igual no país como um todo.
+*  Algumas regiões tem uma população de pessoas que moram nas ruas muito maior que outras, então o problema de pessoas sem-teto não é igual no país como um todo.
 *  A própria capital do país tem a pior proporção de moradores de rua por população total.
 
 ## Plotagem de alguns resultados
